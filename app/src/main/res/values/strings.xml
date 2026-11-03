@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">药时记</string>
+    <string name="notification_channel_reminders">吃药提醒</string>
+    <string name="notification_channel_reminders_desc">按设定时间提醒你服药</string>
+</resources>
